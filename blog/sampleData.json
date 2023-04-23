@@ -1,0 +1,86 @@
+[
+    {
+        "assetClass": "Equity",
+        "counterparty": "Goldman Sachs",
+        "instrumentId": "AAPL",
+        "instrumentName": "Apple Inc.",
+        "tradeDateTime": "2022-04-20T11:00:00",
+        "tradeDetails": {
+            "buySellIndicator": "BUY",
+            "price": 150.00,
+            "quantity": 100
+        },
+        "tradeId": "ABC123",
+        "trader": "John Smith"
+    },
+    {
+        "assetClass": "FX",
+        "counterparty": "JP Morgan",
+        "instrumentId": "USD/JPY",
+        "instrumentName": "US Dollar vs Japanese Yen",
+        "tradeDateTime": "2022-04-20T11:30:00",
+        "tradeDetails": {
+            "buySellIndicator": "SELL",
+            "price": 110.50,
+            "quantity": 1000
+        },
+        "tradeId": "DEF456",
+        "trader": "Jane Doe"
+    },
+    {
+        "assetClass": "Bond",
+        "counterparty": "Barclays",
+        "instrumentId": "US Treasury",
+        "instrumentName": "US Treasury Bond",
+        "tradeDateTime": "2022-04-20T12:00:00",
+        "tradeDetails": {
+            "buySellIndicator": "BUY",
+            "price": 98.50,
+            "quantity": 500
+        },
+        "tradeId": "GHI789",
+        "trader": "Bob Johnson"
+    },
+    {
+        "assetClass": "Equity",
+        "counterparty": "Morgan Stanley",
+        "instrumentId": "TSLA",
+        "instrumentName": "Tesla Inc.",
+        "tradeDateTime": "2022-04-20T12:30:00",
+        "tradeDetails": {
+            "buySellIndicator": "SELL",
+            "price": 725.00,
+            "quantity": 50
+        },
+        "tradeId": "JKL012",
+        "trader": "Alice Smith"
+    },
+    {
+        "assetClass": "FX",
+        "counterparty": "UBS",
+        "instrumentId": "EUR/USD",
+        "instrumentName": "Euro vs US Dollar",
+        "tradeDateTime": "2022-04-20T13:00:00",
+        "tradeDetails": {
+            "buySellIndicator": "BUY",
+            "price": 1.20,
+            "quantity": 10000
+        },
+        "tradeId": "MNO345",
+        "trader": "Mark Johnson"
+    },
+    {
+        "assetClass": "Equity",
+        "counterparty": "Goldman Sachs",
+        "instrumentId": "AMZN",
+        "instrumentName": "Amazon.com Inc.",
+        "tradeDateTime": "2022-04-20T13:30:00",
+        "tradeDetails": {
+            "buySellIndicator": "BUY",
+            "price": 3250.00,
+            "quantity": 10
+        },
+        "tradeId": "PQR678",
+        "trader": "Jane Smith"
+    }
+]
